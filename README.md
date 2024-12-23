@@ -1,4 +1,4 @@
-# Python_Uygulamaları-1
+# Python_Uygulamaları 1
 Kitaplar ve internetlerden derlenen örnek python uygulamalarıdır:
 1. multiplicationtable.py    12x12 Çarpım tablosu oluşturur.
 2. stopwatch.py              Toplam ve etap süresi tutan kronometre işlevidir.
